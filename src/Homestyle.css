@@ -1,0 +1,69 @@
+.hometitle1{
+    padding-top: 10%;
+    margin-left: 8%;
+    /* margin-top: 10%; */
+    height: 100vh;
+    /* width: 50%;   */
+}
+.heading{
+    font-family: "Kanit";
+    font-size: 150%;
+    /* color: rgba(101, 83, 121, 0.479); */
+    color: rgb(247, 208, 96);
+}
+.subheading{
+    font-family: "Kanit";
+    font-size: 300%;
+    margin-top: 10%;
+    color: rgb(247, 208, 96);
+}
+.hr{
+    color: aliceblue;
+    margin-top: 5%;
+}
+.icons{
+    color: aliceblue;
+}
+.subcontent{
+    font-family: "Poppins";
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    font-size: xx-large;
+    height: 100vh;
+    width: 30%;
+}
+.grid1{ 
+    padding: 20px;
+    background-color: rgb(108, 117, 125, 0.5);
+    box-shadow: 2px 2px 4px #000000;
+    border-radius: 30px;
+    padding-top: 2%;
+}
+.grid2{
+    background-color: #000000;
+}
+.skill{
+    font-family: "Chivo";
+    text-align: center;
+    font-size: large;
+    padding: 20px;   
+}
+.skill:hover
+{
+    background-color: aqua;
+}
+.homediv{
+    background-color: rgb(50, 55, 60);
+}
+.splitScreen{
+    display: flex;
+    flex-direction: row;
+}
+/* /* .topPane{
+    width: '50%';
+} */
+.bottomPane{
+    width: 50%;
+}

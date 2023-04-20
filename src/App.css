@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Chivo";
+  src: local("ChivoMono"),
+  url('./Font/ChivoMono-Regular.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Dyna";
+  src: local("DynaPuff"),
+  url('./Font/DynaPuff-Regular.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Comfort";
+  src: local("Comfortaa"),
+  url('./Font/Comfortaa-Regular.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  src: local("Poppins"),
+  url('./Font/Poppins-Regular.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Kanit";
+  src: local("Kanit"),
+  url('./Font/Kanit-Medium.ttf') format("truetype");
+}
+body
+{
+  background-color: rgba(50,55,60);
+  height: 100vh;
+}
